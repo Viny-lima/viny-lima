@@ -4,11 +4,13 @@
 <br> 
 <div align="center">
   <a href="https://github.com/viny-lima">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viny-lima&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
+  <img align="top" alt="oscar" height="180em" src="https://github.com/Viny-lima/viny-lima/assets/82112071/1469846e-d220-44f8-83fc-633e2a58bb5a">
+  <img alig="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=viny-lima&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viny-lima&layout=compact&langs_count=7&theme=white"/>
 </div>
 <br>
-  
+
+
 <h2 align="center" >Tecnologias</h2>
   
 <div style="display: inline_block" align="center"><br>  
@@ -24,7 +26,7 @@
 </div>
 
 <br>  
-  
+
 <h2 align="center" >Contatos</h2>
  
 <div align="center">
